@@ -1,0 +1,19 @@
+h1 {
+    text-decoration: underline;
+    font-size: large;
+    background-color: white;
+    border-width: 10px;
+    border-color: dimgray;
+    border-style: initial;
+    text-align: center;
+    border-radius: 10px;
+}
+
+Body {
+    background-color: darkgray;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
